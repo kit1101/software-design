@@ -1,0 +1,64 @@
+<html lang="en">
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ONLINE SALES INVOICE FORM</title>
+</head>
+<style>
+
+    body{
+        margin-top: 75px;
+        margin-bottom: 50px;
+        margin-right: 50px;
+        margin-left: 50px;
+    }
+    html { 
+         background: url(rm452-f-014-x.jpg) no-repeat center fixed; 
+        background-size:auto;
+}
+    h1 {
+        text-align:center;       
+        text-decoration: wavy;
+        font-weight: 900;
+    }
+    h2 {
+        text-align: center;
+        font-size: xx-large;
+    }
+    h3 {
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-size: medium;
+        color:rgb(5, 5, 5);
+
+    }
+    p {
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-size: 13px;
+    }
+</style>
+
+<h1><i><b>Aiya's Gadgets</b></i></h1>
+<h2><b>ONLINE SALES INVOICE FORM</b></h2>
+
+<body>
+<form>
+    <h3 style="text-align:center;">
+    <label for="item#">Item no:</label><br>
+    <input type="text" id="item#" name="item#"><br>
+    <label for="cname">Customer's name:</label><br>
+    <input type="text" id="cname" name="cname"><br>
+    <label for="contact#">Contact no.:</label><br>
+    <input type="text" id="contact#" name="contact#"><br>
+    <label for="amount">Amount:</label><br>
+    <input type="text" id="amount" name="amount">
+
+    <br><br>
+    <p style="text-align:center;"><b>PICKUP LOCATION:</b></p>
+<p style="text-align:center;"><b>Main entrance, between Dada's Pharmacy and Opie Beauty Salon,
+    <br>Buluan New Market, Poblacion Buluan Maguindanao.</br></b></p>
+    <p style="text-align:center;"><b>FOR DELIVERY:</b></p>
+    <p style="text-align:center;"><b>Additional fee depends on location.</b></p>
+<p style="text-align:center;"><b><i>Thank you so much!</i></b></p>
+    </h3>
+
+</body>
+</html>
