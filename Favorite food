@@ -1,0 +1,61 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Milktea of the Day</title>
+
+    <h1><b>MOTD Flavors: Which one?</b></h1>
+</head>
+<style>
+
+    body{
+        background-color: rgb(241, 172, 67);
+        background-position-x: left;
+        background-image: -o-repeating-linear-gradient();
+        text-decoration: wavy;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+    h1 {
+        font-family: cursive;
+    }
+    h2 {
+        font-size: small;
+        font-family: cursive;
+    }
+    p {
+        font-size: medium;
+        font-family: cursive;
+    }
+</style>
+<body> <h2>
+    <form>
+        <b>
+            <input type="radio" id="css" name="fav_tea" value="Classic">
+            <label for="classic">Classic</label><br>
+            <input type="radio" id="html" name="fav_tea" value="Wintermelon">
+            <label for="wintermelon">Wintermelon</label><br>
+            <input type="radio" id="css" name="fav_tea" value="Matcha">
+            <label for="matcha">Matcha</label><br>
+            <input type="radio" id="css" name="fav_tea" value="Okinawa">
+            <label for="okinawa">Okinawa</label><br>
+            <input type="radio" id="css" name="fav_tea" value="Hokkaido">
+            <label for="hokkaido">Hokkaido</label><br>
+            <input type="radio" id="css" name="fav_tea" value="Red Velvet">
+            <label for="red velvet">Red Velvet</label><br>
+            <input type="radio" id="css" name="fav_tea" value="Taro Chocolate">
+            <label for="taro chocolate">Taro Chocolate</label><br>
+            <input type="radio" id="css" name="fav_tea" value="Caramel Machiatto">
+            <label for="caramel machiatto">Caramel Machiatto</label><br>
+            <input type="radio" id="css" name="fav_tea" value="Cookies n Cream">
+            <label for="cookies n cream">Cookies n Cream</label><br>
+            <input type="radio" id="javascript" name="fav_tea" value="Rocksalt Cheese">
+            <label for="rocksalt cheese">Rocksalt Cheese</label>
+        </b>
+        </form>
+        <br>
+        <b>
+            <p>A simple reminder: Please smile in every sip. :)</p>
+        </b>
+</body>
+</html>
