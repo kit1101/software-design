@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+    background-color: #f594bc85;
+}
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+td, th {
+  border: 1px solid #750114;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #fd1b7985;
+}
+tr:nth-child(odd) {
+    background-color: #ff24f4ce;
+}
+p {
+   font-family: cursive;
+   font-size: x-small; 
+   font-weight: 200;
+   font-style: oblique;
+}
+</style>
+</head>
+<body>
+
+<h2>It's Keith O'myrah's..</h2>
+
+<table>
+  <tr>
+    <th>Businesses under KOMA</th>
+    <th>Aiya's Gadgets</th>
+    <th>Keith Kreatives</th>
+    <th>Miss Keith</th>
+    <th>Aiya's Cloud Empire</th>
+  </tr>
+  <tr>
+    <th>Services offered</th>
+    <th>Cash, Layaway and Paluwagan basis</th>
+    <th>Arts and Crafts (Graphic designing, Photoshoots, Event Organizer, etc.)</th>
+    <th>Apparel and Clothing</th>
+    <th>E-cigarettes and accessories</th>
+  </tr>
+  <tr>
+    <th>No. of customer's per month</th>
+    <th>20-30</th>
+    <th>5-10</th>
+    <th>5-10</th>
+    <th>15-20</th>
+  </tr>
+  <tr>
+    <th>Monthly Gross Income</th>
+    <th>P40,000-P70,000</th>
+    <th>More or less P4,000</th>
+    <th>More or less P5,000</th>
+    <th>More or less P20,000</th>
+  </tr>
+</body>
+    <p>The following businesses were all owned by Keith O'myrah Mamalo Alabat.</p>
+    <p>If interested, kindly message her for further inquiries.</p>
+    <p>Facebook account: Keith O'myrah Mamalo Alabat</p>
+    <p>Facebook and Instagram pages: @aiyasgadgetsph, @keithkreatives, @misskeith_</p>
+    <p>Contact details: 0906-619-5545</p>
+</html>
